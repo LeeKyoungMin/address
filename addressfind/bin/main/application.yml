@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+juso:
+  openapi:
+    url: https://business.juso.go.kr/addrlink/addrLinkApi.do?
+    confmKey: devU01TX0FVVEgyMDIyMTEyOTIxMTk1MzExMzI3MDE=
